@@ -8,5 +8,5 @@ Steps to set up the project.
 Instructions on how to use project.
 
 ##Additional features
-used by developer pack
+from developer pack
 
