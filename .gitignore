@@ -1,0 +1,3 @@
+o	*.log (ignore log files).
+o	node_modules/ (ignore the Node.js modules directory).
+o	*.env (ignore environment files).
